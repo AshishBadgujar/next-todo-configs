@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: next-todo
-          image: dkrashi/next-todo:1.0
+          image: dkrashi/next-todo:2.0
           resources:
             limits:
               memory: "128Mi"

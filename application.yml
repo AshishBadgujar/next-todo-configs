@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/AshishBadgujar/argocd-app-config
+    repoURL: https://github.com/AshishBadgujar/next-todo-configs
     targetRevision: HEAD
     path: .
   destination:
